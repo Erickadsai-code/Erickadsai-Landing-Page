@@ -1,2 +1,2 @@
 # Erickadsai-Landing-Page
-Created with CodeSandbox
+Created by StivenAds
